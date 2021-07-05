@@ -63,7 +63,7 @@
 
   <!--Mybatis的Mapper文件识别-->
   <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-    <property name="basePackage" value="com.how2java.tmall.mapper"/>
+    <property name="basePackage" value="com.template.mapper"/>
   </bean>
 
 </beans>
